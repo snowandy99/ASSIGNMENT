@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>W3.CSS Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+.w3-third img{margin-bottom: -6px; opacity: 0.8; cursor: pointer}
+.w3-third img:hover{opacity: 1}
+</style> </head>
+  <body class="w3-light-grey w3-content" style="   max-width:1600px">
+    <!-- Sidebar/menu -->
+    <nav class="w3-sidebar w3-bar-block w3-white w3-animate-left w3-text-grey w3-collapse w3-top w3-center"
+      style="z-index:3;width:300px;font-weight:bold" id="mySidebar"><br>
+      <h3 class="w3-padding-64 w3-center"><a href="../index.html"><span style="font-family: Calibri;"><strong><b>My
+                Profile</b></strong></span></a></h3>
+      <span style="font-family: Calibri;"><strong></strong></span>
+      <p><a href="../Personal%20Information/Personal%20Information.html"><span style="font-family: Calibri;"><strong>Personal
+              Information</strong></span></a></p>
+      <span style="font-family: Calibri;"><strong> </strong></span>
+      <p><a href="../Interest%20in%20IT/Interest%20in%20IT.html"><span style="font-family: Calibri;"><strong>Interest
+              in IT</strong></span></a></p>
+      <span style="font-family: Calibri;"><strong> </strong></span>
+      <p><a href="Ideal%20Job.html"><span style="font-family: Calibri;"><strong>Ideal
+              Job</strong></span></a></p>
+      <span style="font-family: Calibri;"><strong> </strong></span>
+      <p><a href="../Personal%20Profile/Personal%20Profile.html"><span style="font-family: Calibri;"><strong>Personal
+              Profile</strong></span></a></p>
+      <p><a href="../Personal%20Profile/MyerBriggs.html"><i><span style="font-family: Calibri;"><strong>-
+                The Myer-Briggs Test</strong></span></i></a></p>
+      <p><a href="../Personal%20Profile/The%20Big%20Five.html"><span style="font-family: Calibri;"><em>-
+              The Big Five Personality Test</em></span></a></p>
+      <p><a href="../Personal%20Profile/Creativity%20Test.html"><em><span style="font-family: Calibri;">-
+              The Creativity Test</span></em></a><br>
+        <span style="font-family: Calibri;"><em></em><strong></strong></span></p>
+      <span style="font-family: Calibri;"><strong> </strong></span>
+      <p><a href="../Project%20Ideas/Project%20Ideas.html"><span style="font-family: Calibri;"><strong>Project
+              Ideas</strong></span></a></p>
+      <p><em style="font-family: Calibri;"><span style="font-family: Calibri;"></span></em><a
+          href="../Project%20Ideas/Features%20of%20project.html"><em style="font-family: Calibri;">-
+            <em>Features of this product / service</em></em></a></p>
+      <p><a href="../Project%20Ideas/Requirements.html"><strong><em style="font-family: Calibri;">-
+              Requirements for this project</em></strong></a></p>
+      <span style="font-family: Calibri;"></span>
+      <p><br>
+      </p>
+      <span style="font-family: Calibri;"><a href="javascript:void(0)" onclick="w3_close()"
+          class="w3-bar-item w3-button w3-padding w3-hide-large">CLO</a> <span
+          style="color: black;"></span> </span></nav>
+    <span style="font-family: Calibri;"> <br>
+    </span>
+    <header class="w3-container w3-top w3-hide-large w3-white w3-xlarge w3-padding-16"><span
+        style="font-family: Calibri;">&nbsp; My Profile<a href="javascript:void(0)"
+          class="w3-right w3-button w3-white" onclick="w3_open()">☰</a></span> </header>
+    <span style="font-family: Calibri;"> </span><span style="font-family: Calibri;">
+    </span>
+    <div class="w3-main w3-content" style="margin-left:300px"><span style="font-family: Calibri;">
+        <br>
+      </span><span style="font-family: Calibri;"> </span>
+      <div class="w3-bar"> </div>
+      <span style="font-family: Calibri;"> <b> </b> </span>
+      <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32"
+        id="about"> <span style="font-family: Calibri;"><br>
+        </span>
+        <div class="w3-content w3-justify" style="max-width:600px">
+          <h2><u><strong><span style="font-family: Calibri;">Interest in IT</span></strong></u></h2>
+          <h4 style=" font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span
+              style="font-family: Calibri;"><span style="color: white;"><b>What
+                  is your interest in IT? When did your interest in IT start?
+                  Was there a particular event or person that sparked your
+                  interest? Outline your IT experience (if any).</b></span></span></h4>
+          <p style="font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span
+              style="font-family: Calibri;"><span style="color: white;">My
+                interest in IT is growing gradually as it seems to be a very fun
+                but challenging subject. There was no specific time, event or
+                person that sparked my interest in IT but it was because I
+                realised that IT is a very important necessity in the world
+                nowadays and will provide job opportunities if I do well.</span></span></p>
+          <h3 style="  font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span
+              style="font-family: Calibri;"><span style="color: white;"><b>Why
+                  did you choose to come to RMIT?</b></span></span></h3>
+          <p style="font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span
+              style="font-family: Calibri;"><span style="color: white;">Previously,
+                I was studying at Monash University and it was quite a hectic
+                time due to the homework load and the difficulty of assignments
+                and exams. It was also a 1 hour and 15 minute train ride to
+                university everyday. I decided to move to RMIT because of the
+                difference in learning styles as RMIT is more chill and at a
+                slower pace which would allow me to cope better rather than
+                stressing hard about balancing my life, work and studies. I did
+                not do very well at Monash University and kind of failed a few
+                subjects, however at RMIT it has been a much smoother ride for
+                me. I have passed every subject in my Bachelor of Business
+                course and hope to pass and do well in all my IT subjects. :)</span></span></p>
+          <h4 style=" font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span
+              style="font-family: Calibri;"><span style="color: white;"><b>What
+                  do you expect to learn during your studies?</b></span></span></h4>
+          <p style="font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span
+              style="font-family: Calibri;"><span style="color: white;">I expect
+                to learn how to interact with people efficiently as I believe
+                this is an important ability in the IT field. More importantly,
+                I would like to learn more about coding and programing because I
+                think it would be cool to be able to design and create my own
+                applications and websites. <br>
+              </span></span></p>
+          <span style="font-family: Calibri;"><span style="color: white;"></span></span>
+          <hr class="w3-opacity"><span style="font-family: Calibri;"><br>
+          </span> </div>
+      </div>
+      <span style="font-family: Calibri;"> </span>
+      <div class="w3-container w3-light-grey w3-padding-32 w3-padding-large" id="contact"><span
+          style="font-family: Calibri;"> </span>
+        <div class="w3-content" style="max-width:600px"><br>
+        </div>
+      </div>
+      <script>
+// Script to open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+</script> </div>
+  </body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>W3.CSS Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+.w3-third img{margin-bottom: -6px; opacity: 0.8; cursor: pointer}
+.w3-third img:hover{opacity: 1}
+</style> </head>
+  <body class="w3-light-grey w3-content" style="   max-width:1600px">
+    <!-- Sidebar/menu -->
+    <nav class="w3-sidebar w3-bar-block w3-white w3-animate-left w3-text-grey w3-collapse w3-top w3-center"
+      style="z-index:3;width:300px;font-weight:bold" id="mySidebar"><br>
+      <h3 class="w3-padding-64 w3-center"><a href="../index.html"><span style="font-family: Calibri;"><strong><b>My
+                Profile</b></strong></span></a></h3>
+      <span style="font-family: Calibri;"><strong></strong></span>
+      <p><a href="../Personal%20Information/Personal%20Information.html"><span style="font-family: Calibri;"><strong>Personal
+              Information</strong></span></a></p>
+      <span style="font-family: Calibri;"><strong> </strong></span>
+      <p><a href="../Interest%20in%20IT/Interest%20in%20IT.html"><span style="font-family: Calibri;"><strong>Interest
+              in IT</strong></span></a></p>
+      <span style="font-family: Calibri;"><strong> </strong></span>
+      <p><a href="Ideal%20Job.html"><span style="font-family: Calibri;"><strong>Ideal
+              Job</strong></span></a></p>
+      <span style="font-family: Calibri;"><strong> </strong></span>
+      <p><a href="../Personal%20Profile/Personal%20Profile.html"><span style="font-family: Calibri;"><strong>Personal
+              Profile</strong></span></a></p>
+      <p><a href="../Personal%20Profile/MyerBriggs.html"><i><span style="font-family: Calibri;"><strong>-
+                The Myer-Briggs Test</strong></span></i></a></p>
+      <p><a href="../Personal%20Profile/The%20Big%20Five.html"><span style="font-family: Calibri;"><em>-
+              The Big Five Personality Test</em></span></a></p>
+      <p><a href="../Personal%20Profile/Creativity%20Test.html"><em><span style="font-family: Calibri;">-
+              The Creativity Test</span></em></a><br>
+        <span style="font-family: Calibri;"><em></em><strong></strong></span></p>
+      <span style="font-family: Calibri;"><strong> </strong></span>
+      <p><a href="../Project%20Ideas/Project%20Ideas.html"><span style="font-family: Calibri;"><strong>Project
+              Ideas</strong></span></a></p>
+      <p><em style="font-family: Calibri;"><span style="font-family: Calibri;"></span></em><a
+          href="../Project%20Ideas/Features%20of%20project.html"><em style="font-family: Calibri;">-
+            <em>Features of this product / service</em></em></a></p>
+      <p><a href="../Project%20Ideas/Requirements.html"><strong><em style="font-family: Calibri;">-
+              Requirements for this project</em></strong></a></p>
+      <span style="font-family: Calibri;"></span>
+      <p><br>
+      </p>
+      <strong></strong>
+      <p><strong><br>
+        </strong> </p>
+      <strong> <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-hide-large">CLO</a>
+        <span style="color: black;"></span> </strong></nav>
+    <strong> <br>
+    </strong>
+    <header class="w3-container w3-top w3-hide-large w3-white w3-xlarge w3-padding-16"><strong>&nbsp;
+        My Profile<a href="javascript:void(0)" class="w3-right w3-button w3-white"
+          onclick="w3_open()">☰</a></strong> </header>
+    <strong> </strong><strong> </strong>
+    <div class="w3-main" style="margin-left:300px"><strong> <br>
+      </strong><strong> </strong>
+      <div class="w3-bar"> </div>
+      <strong> <b> </b> </strong>
+      <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32">
+        <h2> <strong></strong></h2>
+        <h2><strong> </strong> </h2>
+        <div class="w3-content w3-justify" style="max-width:600px">
+          <h2><u><span style="font-family: Calibri;"><strong>The Creativity Test<br>
+                </strong></span></u></h2>
+          <p><br>
+          </p>
+          <img src="CreativityTest.PNG" alt="" title="CREATIVITY TEST" style="width: 761px; height: 503px;"><br>
+          &nbsp;</div>
+        <div class="w3-content w3-justify" style="max-width:600px">The results
+          to this test are quite accurate as I find myself being able to see
+          things through many perspectives and connect information and people
+          with one another. As you can see from the results,it seems that I lack
+          the ability to force myself to push on to achieve my goal and that I
+          am easily influenced by the feelings and thoughts of others. </div>
+        <div class="w3-content w3-justify" style="max-width:600px"><br>
+        </div>
+        <div class="w3-content w3-justify" style="max-width:600px">These results
+          will help me grasp the idea that I am somewhat lazy and not
+          self-driven and that if I want to move on in life, I need to work
+          hard. I should worry more about what's best for me and less about what
+          people might think of me. Without understanding my weaknesses, I won't
+          be able to improve and achieve much. </div>
+        <div class="w3-content w3-justify" style="max-width:600px"><br>
+        </div>
+        <div class="w3-content w3-justify" style="max-width:600px">As a team
+          member, these results will drive me to put more effort into the work I
+          do rather than aiming for just a passing mark. When it comes to
+          forming a team, I will try to find people who are willing to let me
+          work at my own pace and will communicate effectively if they need
+          something, I won't be able to work with people who are one-dimensional
+          and can only see one answer for a situation,</div>
+        <div class="w3-content w3-justify" style="max-width:600px"><br>
+        </div>
+        <div class="w3-content w3-justify" style="max-width:600px"><br>
+        </div>
+        <div class="w3-content w3-justify" style="max-width:600px">References -<a
+            href="http://www.testmycreativity.com/">
+            http://www.testmycreativity.com/</a> </div>
+      </div>
+      <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32">
+        <div class="w3-content w3-justify" style="max-width:600px">
+          <hr class="w3-opacity"><strong><br>
+          </strong> </div>
+      </div>
+      <strong> </strong>
+      <div class="w3-container w3-light-grey w3-padding-32 w3-padding-large" id="contact"><strong>
+        </strong>
+        <div class="w3-content" style="max-width:600px"><br>
+        </div>
+      </div>
+      <script>
+// Script to open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+</script> </div>
+  </body>
+</html>

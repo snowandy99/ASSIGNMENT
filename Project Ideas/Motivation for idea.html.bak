@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>W3.CSS Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+.w3-third img{margin-bottom: -6px; opacity: 0.8; cursor: pointer}
+.w3-third img:hover{opacity: 1}
+</style> </head>
+  <body class="w3-light-grey w3-content" style="   max-width:1600px">
+    <!-- Sidebar/menu -->
+    <nav class="w3-sidebar w3-bar-block w3-white w3-animate-left w3-text-grey w3-collapse w3-top w3-center"
+      style="z-index:3;width:300px;font-weight:bold" id="mySidebar"><br>
+      <h3 class="w3-padding-64 w3-center"><span style="font-family: Calibri;"><b><strong><a
+                href="../IT%20Template.html">My Profile</a><a href="IT%20template.html">
+              </a></strong><br>
+          </b></span></h3>
+      <span style="font-family: Calibri;"> </span>
+      <p><span style="font-family: Calibri;"><strong><a href="Personal%20Information.html">Personal
+              Information</a></strong></span></p>
+      <span style="font-family: Calibri;"> </span>
+      <p><span style="font-family: Calibri;"><strong><a href="Interest%20in%20IT.html">Interest
+              in IT</a></strong></span></p>
+      <span style="font-family: Calibri;"> </span>
+      <p><span style="font-family: Calibri;"><strong><a href="Ideal%20Job.html">Ideal
+              Job</a></strong></span></p>
+      <span style="font-family: Calibri;"> </span>
+      <p><span style="font-family: Calibri;"><strong><a href="Personal%20Profile.html">Personal
+              Profile</a></strong></span></p>
+      <p><i><span style="font-family: Calibri;"><strong><a href="file:///C:/Users/Andy/Desktop/INTRO%20TO%20IT%20WEBSITE/5%20questions/MyerBriggs.html">-
+                The Myer-Briggs Test</a></strong></span></i></p>
+      <p><a href="file:///C:/Users/Andy/Desktop/INTRO%20TO%20IT%20WEBSITE/5%20questions/MyerBriggs.html"></a><span
+          style="font-family: Calibri;"><em><a href="file:///C:/Users/Andy/Desktop/INTRO%20TO%20IT%20WEBSITE/5%20questions/The%20Big%20Five.html">-
+              The Big Five Personality Test</a></em><strong><a href="file:///C:/Users/Andy/Desktop/INTRO%20TO%20IT%20WEBSITE/5%20questions/MyerBriggs.html"></a></strong></span></p>
+      <span style="font-family: Calibri;"> </span>
+      <p><span style="font-family: Calibri;"><a href="Project%20Ideas.html">Project
+            Ideas</a></span></p>
+      <p><span style="font-family: Calibri;"><a href="Project%20Ideas.html">- <em>Features
+              of this product / service</em><br>
+          </a></span></p>
+      <strong></strong><strong><em style="font-family: Calibri;"><u>-
+            Requirements for this project<br>
+          </u></em></strong>
+      <h4><strong><u><span style="font-family: Calibri;"><br>
+            </span></u></strong></h4>
+      <strong><a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-hide-large">CLO</a>
+        <span style="color: black;"></span> </strong></nav>
+    <strong> <br>
+    </strong>
+    <header class="w3-container w3-top w3-hide-large w3-white w3-xlarge w3-padding-16"><strong>&nbsp;
+        My Profile<a href="javascript:void(0)" class="w3-right w3-button w3-white"
+          onclick="w3_open()">☰</a></strong> </header>
+    <strong> </strong><strong> </strong>
+    <div class="w3-main" style="margin-left:300px"><strong> <br>
+      </strong><strong> </strong>
+      <div class="w3-bar"> </div>
+      <strong> <b> </b> </strong>
+      <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32"
+        id="about"> <strong><br>
+        </strong>
+        <div class="w3-content w3-justify" style="max-width:600px">
+          <h4><strong><u><span style="font-family: Calibri;">Requirements for
+                  this project<br>
+                </span></u></strong></h4>
+          <hr class="w3-opacity"><strong><br>
+          </strong> </div>
+      </div>
+      <strong> </strong>
+      <div class="w3-container w3-light-grey w3-padding-32 w3-padding-large" id="contact"><strong>
+        </strong>
+        <div class="w3-content" style="max-width:600px"><br>
+        </div>
+      </div>
+      <script>
+// Script to open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+</script> </div>
+  </body>
+</html>
